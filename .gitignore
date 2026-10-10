@@ -23,3 +23,6 @@ yarn-debug.log*
 
 # Local database session
 Campus Pulse MySQL.session.sql
+
+# Local SQL reference file
+campuspulse.sql
